@@ -6,6 +6,10 @@
 ====== [ SETTINGS ] ======
 
 D LOCKED
+D9 edibleFood
+D1 sword
+D2 pickaxe
+D3 mattock
 
 ======== [ GETTING STARTED ] ========
 
