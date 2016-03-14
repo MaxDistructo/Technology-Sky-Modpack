@@ -74,6 +74,11 @@
                 <DE_wyvernpickaxe id="<DraconicEvolution:wyvernPickaxe>"/>
                 <IO_pickaxe id="<EnderIO:item.darkSteel_pickaxe>"/>
                 <EU_pickaxe id="<ExtraUtilities:destructionpickaxe>"/>
+                <Na_bloodpickaxe id="Natura:natura.pickaxe.bloodwood"/>
+                <Na_darkpickaxe id="Natura:natura.pickaxe.darkwood"/>
+                <Na_fusepickaxe id="Natura:natura.pickaxe.fusewood"/>
+                <Na_ghostpickaxe id="Natura:natura.pickaxe.ghostwood"/>
+                <Na_quartzpickaxe id="Natura:natura.pickaxe.netherquartz"/>
             </pickaxe>
             <shovel>
                 <goldShovel id="golden_shovel"/>
@@ -135,12 +140,12 @@
                 <leatherHelmet id="leather_helmet"/>
             </helmet>
             <chestplate>
+                <DE_chestplate id="DraconicEvolution:draconicChest"/>
                 <diamondChestplate id="diamond_chestplate"/>
                 <chainChestplate id="chainmail_chestplate"/>
                 <ironChestplate id="iron_chestplate"/>
                 <goldChestplate id="golden_chestplate"/>
                 <leatherChestplate id="leather_chestplate"/>
-                <DE_chestplate id="<DraconicEvolution:draconicChest>"/>
             </chestplate>
             <leggings>
                 <diamondLeggings id="diamond_leggings"/>
