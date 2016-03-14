@@ -32,19 +32,33 @@
                 <stoneSword id="stone_sword"/>
                 <goldSword id="golden_sword"/>
                 <woodSword id="wooden_sword"/>
-                <TC_cutlass id="<TConstruct:cutlass>"/>
-                <TC_rapier id="<TConstruct:rapier>"/>
-                <TC_sword id="<TConstruct:sword>"/>
-                <TC_broadsword id="<TConstruct:broadsword>"/>
-                <TC_cleaver id="<TConstruct:cleaver>"/>
-                <TC_frying_pan id="<TConstruct:frypan>"/>
-                <TC_longsword id="<TConstruct:longsword>"/>
+                <TC_cutlass id="TConstruct:cutlass"/>
+                <TC_rapier id="TConstruct:rapier"/>
+                <TC_sword id="TConstruct:sword"/>
+                <TC_broadsword id="TConstruct:broadsword"/>
+                <TC_cleaver id="TConstruct:cleaver"/>
+                <TC_frying_pan id="TConstruct:frypan"/>
+                <TC_longsword id="TConstruct:longsword"/>
+                <DE_sword id="DraconicEvolution:draconicSword"/>
+                <DE_staff id="DraconicEvolution:draconicDistructionStaff"/>
+                <DE_wyvernsword id="DraconicEvolution:wyvernSword"/>
+                <IO_sword id="EnderIO:item.darkSteel_sword"/>
+                <EU_sword id="ExtraUtilities:ethericsword"/>
+                <EU_kikoku id="ExtraUtilities:lawSword"/>
+                <MFR_hammer id="MineFactoryReloaded:hammer"/>
             </sword>
             <munition>
                 <bow id="bow"/>
                 <arrow id="arrow"/>
                 <snowball id="snowball"/>
-                <TC_shortbow id="
+                <DE_bow id="<DraconicEvolution:draconicBow>"/>
+                <DE_wyvernbow id="<DraconicEvolution:wyvernBow>"/>
+                <MFR_spamr id="MineFactoryReloaded:rocketlauncher"/>
+                <MFR_rocket id="MineFactoryReloaded:rocket"/>
+                <Na_bloodbow id="Natura:natura.bow.bloodwood"/>
+                <Na_darkbow id="Natura:natura.bow.darkwood"/>
+                <Na_fusebow id="Natura:natura.bow.fusewood"/>
+                <Na_ghostbow id="Natura:natura.bow.ghostwood"/>
             </munition>
         </weapon>
         <tool>
@@ -56,7 +70,10 @@
                 <woodPickaxe id="wooden_pickaxe"/>
                 <TC_pickaxe id="<TConstruct:pickaxe>"/>
                 <TC_hammer id="<TConstruct:hammer>"/>
-                
+                <DE_pickaxe id="<DraconicEvolution:draconicPickaxe>"/>
+                <DE_wyvernpickaxe id="<DraconicEvolution:wyvernPickaxe>"/>
+                <IO_pickaxe id="<EnderIO:item.darkSteel_pickaxe>"/>
+                <EU_pickaxe id="<ExtraUtilities:destructionpickaxe>"/>
             </pickaxe>
             <shovel>
                 <goldShovel id="golden_shovel"/>
@@ -66,6 +83,9 @@
                 <woodShovel id="wooden_shovel"/>
                 <TC_excavator id="<TConstruct:excavator>"/>
                 <TC_shovel id="<TConstruct:shovel>"/>
+                <DE_shovel id="<DraconicEvolution:draconicShovel>"/>
+                <DE_wyvernshovel id="<DraconicEvolution:wyvernShovel>"/>
+                <EU_shovel id="ExtraUtilities:erosionShovel"/>
             </shovel>
             <axe>
                 <goldAxe id="golden_axe"/>
@@ -75,6 +95,14 @@
                 <woodAxe id="wooden_axe"/>
                 <TC_axe id="<TConstruct:hatchet>"/>
                 <TC_lumberaxe id="<TConstruct:lumberaxe>"/>
+                <DE_axe id="<DraconicEvolution:draconicAxe>"/>
+                <IO_axe id=<EnderIO:item.darkSteel_axe>"/>
+                <EU_axe id=<ExtraUtilities:defoliageAxe>"/>
+                <Na_bloodaxe="Natura:natura.axe.bloodwood"/>
+                <Na_darkaxe="Natura:natura.axe.darkwood"/>
+                <Na_fuseaxe="Natura:natura.axe.fusewood"/>
+                <Na_ghost="Natura:natura.axe.fusewood"/>
+                <Na_quartz="Natura:natura.axe.netherquartz"/>
             </axe>
             <hoe>
                 <goldHoe id="golden_hoe"/>
@@ -82,10 +110,17 @@
                 <ironHoe id="stone_hoe"/>
                 <stoneHoe id="iron_hoe"/>
                 <woodHoe id="wooden_hoe"/>
+                <DE_hoe id="<DraconicEvolution:draconicHoe>"/>
+                <EU_hoe id="ExtraUtilities:temporalHoe"/>
             </hoe>
             <shears id="shears"/>
             <fishingRod id="fishing_rod"/>
             <carrotOnAStick id="carrot_on_a_stick"/>
+            <IO_magnet id="<EnderIO:itemMagnet>"/>
+            <ES_pouch id="<EnderStorage:enderPouch>"/>
+            <EU_wand id="<ExtraUtilities:builderswand>"/>
+            <EU_swand id="<ExtraUtilities:creativebuilderswand>"/>
+            <EU_shears id="ExtraUtilities:shears"/>
             <multitool>
                 <TC_mattock id="<TConstruct:mattock>"/>
                 <TC_scythe id="<TConstruct:scythe>"/>
@@ -105,6 +140,7 @@
                 <ironChestplate id="iron_chestplate"/>
                 <goldChestplate id="golden_chestplate"/>
                 <leatherChestplate id="leather_chestplate"/>
+                <DE_chestplate id="<DraconicEvolution:draconicChest>"/>
             </chestplate>
             <leggings>
                 <diamondLeggings id="diamond_leggings"/>
@@ -119,6 +155,7 @@
                 <ironBoots id="iron_boots"/>
                 <goldBoots id="golden_boots"/>
                 <leatherBoots id="leather_boots"/>
+                <DE_boots id="<DraconicEvolution:draconicBoots>"/>
             </boots>
         </armor>
     </equipment>
