@@ -32,11 +32,19 @@
                 <stoneSword id="stone_sword"/>
                 <goldSword id="golden_sword"/>
                 <woodSword id="wooden_sword"/>
+                <TC_cutlass id="<TConstruct:cutlass>"/>
+                <TC_rapier id="<TConstruct:rapier>"/>
+                <TC_sword id="<TConstruct:sword>"/>
+                <TC_broadsword id="<TConstruct:broadsword>"/>
+                <TC_cleaver id="<TConstruct:cleaver>"/>
+                <TC_frying_pan id="<TConstruct:frypan>"/>
+                <TC_longsword id="<TConstruct:longsword>"/>
             </sword>
             <munition>
                 <bow id="bow"/>
                 <arrow id="arrow"/>
                 <snowball id="snowball"/>
+                <TC_shortbow id="
             </munition>
         </weapon>
         <tool>
@@ -46,6 +54,9 @@
                 <ironPickaxe id="iron_pickaxe"/>
                 <stonePickaxe id="stone_pickaxe"/>
                 <woodPickaxe id="wooden_pickaxe"/>
+                <TC_pickaxe id="<TConstruct:pickaxe>"/>
+                <TC_hammer id="<TConstruct:hammer>"/>
+                
             </pickaxe>
             <shovel>
                 <goldShovel id="golden_shovel"/>
@@ -53,6 +64,8 @@
                 <ironShovel id="iron_shovel"/>
                 <stoneShovel id="stone_shovel"/>
                 <woodShovel id="wooden_shovel"/>
+                <TC_excavator id="<TConstruct:excavator>"/>
+                <TC_shovel id="<TConstruct:shovel>"/>
             </shovel>
             <axe>
                 <goldAxe id="golden_axe"/>
@@ -60,6 +73,8 @@
                 <ironAxe id="iron_axe"/>
                 <stoneAxe id="stone_axe"/>
                 <woodAxe id="wooden_axe"/>
+                <TC_axe id="<TConstruct:hatchet>"/>
+                <TC_lumberaxe id="<TConstruct:lumberaxe>"/>
             </axe>
             <hoe>
                 <goldHoe id="golden_hoe"/>
@@ -71,6 +86,10 @@
             <shears id="shears"/>
             <fishingRod id="fishing_rod"/>
             <carrotOnAStick id="carrot_on_a_stick"/>
+            <multitool>
+                <TC_mattock id="<TConstruct:mattock>"/>
+                <TC_scythe id="<TConstruct:scythe>"/>
+            </multitool>
         </tool>
         <armor>
             <helmet>
