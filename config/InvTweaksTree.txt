@@ -66,7 +66,7 @@
                 <TF_silversword id="ThermalFoundation:tool.swordSilver"/>
                 <TF_tinsword id="ThermalFoundation:tool.swordTin"/>
             </sword>
-            <munition>
+            <bow>
                 <bow id="bow"/>
                 <snowball id="snowball"/>
                 <DE_bow id="<DraconicEvolution:draconicBow>"/>
@@ -90,12 +90,13 @@
                 <TF_platinumbow id="ThermalFoundation:tool.bowPlatinum"/>
                 <TF_silverbow id="ThermalFoundation:tool.bowSilver"/>
                 <TF_tinbow id="ThermalFoundation:tool.bowTin"/>
-            </munition>
+            </bow>
             <ammo>
                 <arrow id="arrow"/>
                 <MFR_rocket id="MineFactoryReloaded:rocket"/>
                 <TC_arrows id="TConstruct:ArrowAmmo"/>
                 <TC_bolt id="TConstruct:BoltAmmo"/>
+            </ammo>
         </weapon>
         <tool>
             <pickaxe>
