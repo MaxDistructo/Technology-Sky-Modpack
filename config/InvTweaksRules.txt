@@ -8,10 +8,12 @@
 D LOCKED
 D9 edibleFood
 D1 sword
-D2 munition
+D2 bow
 D3 pickaxe
 D4 TC_mattock
 A1 ammo
+D5 ES_pouch
+A2 OB_devnull
 
 ======== [ GETTING STARTED ] ========
 
