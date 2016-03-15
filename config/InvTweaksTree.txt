@@ -219,10 +219,8 @@
             <EU_swand id="<ExtraUtilities:creativebuilderswand>"/>
             <EU_shears id="ExtraUtilities:shears"/>
             <OB_devnull id="OpenBlocks:devnull"/>
-            <multitool>
-                <TC_mattock id="<TConstruct:mattock>"/>
-                <TC_scythe id="<TConstruct:scythe>"/>
-            </multitool>
+            <TC_mattock id="<TConstruct:mattock>"/>
+            <TC_scythe id="<TConstruct:scythe>"/>
         </tool>
         <armor>
             <helmet>
