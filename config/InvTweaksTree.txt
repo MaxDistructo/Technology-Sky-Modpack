@@ -39,6 +39,10 @@
                 <TC_cleaver id="TConstruct:cleaver"/>
                 <TC_frying_pan id="TConstruct:frypan"/>
                 <TC_longsword id="TConstruct:longsword"/>
+                <TC_battlesign id="TConstruct:BattleSignBlock"/>
+                <TC_broadsword2 id="TConstruct:Boneana"/>
+                <TC_battleaxe id="TConstruct:battleaxe"/>
+                <TC_battlesign2 id="TConstruct:battlesign"/>
                 <DE_sword id="DraconicEvolution:draconicSword"/>
                 <DE_staff id="DraconicEvolution:draconicDistructionStaff"/>
                 <DE_wyvernsword id="DraconicEvolution:wyvernSword"/>
@@ -46,20 +50,52 @@
                 <EU_sword id="ExtraUtilities:ethericsword"/>
                 <EU_kikoku id="ExtraUtilities:lawSword"/>
                 <MFR_hammer id="MineFactoryReloaded:hammer"/>
+                <Na_bloodsword id="Natura:natura.sword.bloodwood"/>
+                <Na_darksword id="Natura:natura.sword.darkwood"/>
+                <Na_fusesword id="Natura:natura.sword.fusewood"/>
+                <Na_ghostsword id="Natura:natura.sword.ghostwood"/>
+                <Na_quartzsword id="Natura:natura.sword.netherquartz"/>
+                <RA_sword id="RedstoneArsenal:tool.swordFlux"/>
+                <TF_bronzesword id="ThermalFoundation:tool.swordBronze"/>
+                <TF_coppersword id="ThermalFoundation:tool.swordCopper"/>
+                <TF_electrumsword id="ThermalFoundation:tool.swordElectrum"/>
+                <TF_invarsword id="ThermalFoundation:tool.swordInvar"/>
+                <TF_leadsword id="ThermalFoundation:tool.swordLead"/>
+                <TF_nicklesword id="ThermalFoundation:tool.swordNickle"/>
+                <TF_platinumsword id="ThermalFoundation:tool.swordPlatinum"/>
+                <TF_silversword id="ThermalFoundation:tool.swordSilver"/>
+                <TF_tinsword id="ThermalFoundation:tool.swordTin"/>
             </sword>
             <munition>
                 <bow id="bow"/>
-                <arrow id="arrow"/>
                 <snowball id="snowball"/>
                 <DE_bow id="<DraconicEvolution:draconicBow>"/>
                 <DE_wyvernbow id="<DraconicEvolution:wyvernBow>"/>
                 <MFR_spamr id="MineFactoryReloaded:rocketlauncher"/>
-                <MFR_rocket id="MineFactoryReloaded:rocket"/>
                 <Na_bloodbow id="Natura:natura.bow.bloodwood"/>
                 <Na_darkbow id="Natura:natura.bow.darkwood"/>
                 <Na_fusebow id="Natura:natura.bow.fusewood"/>
                 <Na_ghostbow id="Natura:natura.bow.ghostwood"/>
+                <RA_bow id="RedstoneArsenal:tool.bowFlux"/>
+                <TC_crossbow id="TConstruct:Crossbow"/>
+                <TC_longbow id="TConstruct:LongBow"/>
+                <TC_shortbow id="TConstruct:ShortBow"/>
+                <TC_shrucken id="TConstruct:Shuriken"/>
+                <TF_bronzebow id="ThermalFoundation:tool.bowBronze"/>
+                <TF_copperbow id="ThermalFoundation:tool.bowCopper"/>
+                <TF_electrumbow id="ThermalFoundation:tool.bowElectrum"/>
+                <TF_invarbow id="ThermalFoundation:tool.bowInvar"/>
+                <TF_leadbow id="ThermalFoundation:tool.bowLead"/>
+                <TF_nicklebow id="ThermalFoundation:tool.bowNickle"/>
+                <TF_platinumbow id="ThermalFoundation:tool.bowPlatinum"/>
+                <TF_silverbow id="ThermalFoundation:tool.bowSilver"/>
+                <TF_tinbow id="ThermalFoundation:tool.bowTin"/>
             </munition>
+            <ammo>
+                <arrow id="arrow"/>
+                <MFR_rocket id="MineFactoryReloaded:rocket"/>
+                <TC_arrows id="TConstruct:ArrowAmmo"/>
+                <TC_bolt id="TConstruct:BoltAmmo"/>
         </weapon>
         <tool>
             <pickaxe>
@@ -79,6 +115,17 @@
                 <Na_fusepickaxe id="Natura:natura.pickaxe.fusewood"/>
                 <Na_ghostpickaxe id="Natura:natura.pickaxe.ghostwood"/>
                 <Na_quartzpickaxe id="Natura:natura.pickaxe.netherquartz"/>
+                <RA_pickaxe id="RedstoneArsenal:tool.pickaxeFlux"/>
+                <TF_bronzepickaxe id="ThermalFoundation:tool.pickaxeBronze"/>
+                <TF_copperpickaxe id="ThermalFoundation:tool.pickaxeCopper"/>
+                <TF_electrumpickaxe id="ThermalFoundation:tool.pickaxeElectrum"/>
+                <TF_invarpickaxe id="ThermalFoundation:tool.pickaxeInvar"/>
+                <TF_leadpickaxe id="ThermalFoundation:tool.pickaxeLead"/>
+                <TF_nicklepickaxe id="ThermalFoundation:tool.pickaxeNickle"/>
+                <TF_platinumpickaxe id="ThermalFoundation:tool.pickaxePlatinum"/>
+                <TF_silverpickaxe id="ThermalFoundation:tool.pickaxeSilver"/>
+                <TF_tinpickaxe id="ThermalFoundation:tool.pickaxeTin"/>
+                <MC_ziviciopickaxe id="magicalcrops:magicalcrops_ZivicioPickaxe"/>
             </pickaxe>
             <shovel>
                 <goldShovel id="golden_shovel"/>
@@ -91,6 +138,21 @@
                 <DE_shovel id="<DraconicEvolution:draconicShovel>"/>
                 <DE_wyvernshovel id="<DraconicEvolution:wyvernShovel>"/>
                 <EU_shovel id="ExtraUtilities:erosionShovel"/>
+                <Na_bloodshovel id="Natura:natura.shovel.bloodwood"/>
+                <Na_darkshovel id="Natura:natura.shovel.darkwood"/>
+                <Na_fuseshovel id="Natura:natura.shovel.fusewood"/>
+                <Na_ghostshovel id="Natura:natura.shovel.ghostwood"/>
+                <Na_quartzshovel id="Natura:natura.shovel.netherquartz"/>
+                <RA_shovel id="RedstoneArsenal:tool.shovelFlux"/>
+                <TF_bronzeshovel id="ThermalFoundation:tool.shovelBronze"/>
+                <TF_coppershovel id="ThermalFoundation:tool.shovelCopper"/>
+                <TF_electrumshovel id="ThermalFoundation:tool.shovelElectrum"/>
+                <TF_invarshovel id="ThermalFoundation:tool.shovelInvar"/>
+                <TF_leadshovel id="ThermalFoundation:tool.shovelLead"/>
+                <TF_nickleshovel id="ThermalFoundation:tool.shovelNickle"/>
+                <TF_platinumshovel id="ThermalFoundation:tool.shovelPlatinum"/>
+                <TF_silvershovel id="ThermalFoundation:tool.shovelSilver"/>
+                <TF_tinshovel id="ThermalFoundation:tool.shovelTin"/>
             </shovel>
             <axe>
                 <goldAxe id="golden_axe"/>
@@ -103,11 +165,21 @@
                 <DE_axe id="<DraconicEvolution:draconicAxe>"/>
                 <IO_axe id=<EnderIO:item.darkSteel_axe>"/>
                 <EU_axe id=<ExtraUtilities:defoliageAxe>"/>
-                <Na_bloodaxe="Natura:natura.axe.bloodwood"/>
-                <Na_darkaxe="Natura:natura.axe.darkwood"/>
-                <Na_fuseaxe="Natura:natura.axe.fusewood"/>
-                <Na_ghost="Natura:natura.axe.fusewood"/>
-                <Na_quartz="Natura:natura.axe.netherquartz"/>
+                <Na_bloodaxe id="Natura:natura.axe.bloodwood"/>
+                <Na_darkaxe id="Natura:natura.axe.darkwood"/>
+                <Na_fuseaxe id="Natura:natura.axe.fusewood"/>
+                <Na_ghost= id="Natura:natura.axe.fusewood"/>
+                <Na_quartz= id="Natura:natura.axe.netherquartz"/>
+                <RA_axe id="RedstoneArsenal:tool.axeFlux"/>
+                <TF_bronzeaxe id="ThermalFoundation:tool.axeBronze"/>
+                <TF_copperaxe id="ThermalFoundation:tool.axeCopper"/>
+                <TF_electrumaxe id="ThermalFoundation:tool.axeElectrum"/>
+                <TF_invaraxe id="ThermalFoundation:tool.axeInvar"/>
+                <TF_leadaxe id="ThermalFoundation:tool.axeLead"/>
+                <TF_nickleaxe id="ThermalFoundation:tool.axeNickle"/>
+                <TF_platinumaxe id="ThermalFoundation:tool.axePlatinum"/>
+                <TF_silveraxe id="ThermalFoundation:tool.axeSilver"/>
+                <TF_tinaxe id="ThermalFoundation:tool.axeTin"/>
             </axe>
             <hoe>
                 <goldHoe id="golden_hoe"/>
@@ -117,6 +189,25 @@
                 <woodHoe id="wooden_hoe"/>
                 <DE_hoe id="<DraconicEvolution:draconicHoe>"/>
                 <EU_hoe id="ExtraUtilities:temporalHoe"/>
+                <RA_sickle id="RedstoneArsenal:tool.sickleFlux"/>
+                <TF_bronzehoe id="ThermalFoundation:tool.hoeBronze"/>
+                <TF_copperhoe id="ThermalFoundation:tool.hoeCopper"/>
+                <TF_electrumhoe id="ThermalFoundation:tool.hoeElectrum"/>
+                <TF_invarhoe id="ThermalFoundation:tool.hoeInvar"/>
+                <TF_leadhoe id="ThermalFoundation:tool.hoeLead"/>
+                <TF_nicklehoe id="ThermalFoundation:tool.hoeNickle"/>
+                <TF_platinumhoe id="ThermalFoundation:tool.hoePlatinum"/>
+                <TF_silverhoe id="ThermalFoundation:tool.hoeSilver"/>
+                <TF_tinhoe id="ThermalFoundation:tool.hoeTin"/>
+                <TF_bronzesickle id="ThermalFoundation:tool.sickleBronze"/>
+                <TF_coppersickle id="ThermalFoundation:tool.sickleCopper"/>
+                <TF_electrumsickle id="ThermalFoundation:tool.sickleElectrum"/>
+                <TF_invarsickle id="ThermalFoundation:tool.sickleInvar"/>
+                <TF_leadsickle id="ThermalFoundation:tool.sickleLead"/>
+                <TF_nicklesickle id="ThermalFoundation:tool.sickleNickle"/>
+                <TF_platinumsickle id="ThermalFoundation:tool.sicklePlatinum"/>
+                <TF_silversickle id="ThermalFoundation:tool.sickleSilver"/>
+                <TF_tinsickle id="ThermalFoundation:tool.sickleTin"/>
             </hoe>
             <shears id="shears"/>
             <fishingRod id="fishing_rod"/>
@@ -126,6 +217,7 @@
             <EU_wand id="<ExtraUtilities:builderswand>"/>
             <EU_swand id="<ExtraUtilities:creativebuilderswand>"/>
             <EU_shears id="ExtraUtilities:shears"/>
+            <OB_devnull id="OpenBlocks:devnull"/>
             <multitool>
                 <TC_mattock id="<TConstruct:mattock>"/>
                 <TC_scythe id="<TConstruct:scythe>"/>
