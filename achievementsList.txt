@@ -111,6 +111,39 @@ Max size farming station for 20 crops::0
 Fill 1 chunk completely with Triple Compressed cobble::0
 ::1
 ::1
+---===Age of Chemistry===---| |What can you make with Minechem and what are the effects of these chemicals?::1
+Make a Chemical Decomposer::0
+Make a Chemical Synthesis Machine::0
+Make a Microscope::0
+Make a Chemist's Journal::0
+Make a Leaded Chest::0
+Make any Chemical using the above machines::0
+Make Hyoscyscamine and drink it(Must NOT come from a fluid cow to complete the chalenge)::0
+Make a Nether Star using Minechem::0
+Make a radioactive element and let it decay in your inventory::0
+Make a Polytool::0
+Spike a pie with Hyoscyscamine and eat it::0
+---===Age of Death===---| |Now that you have so many ways to die, let's see how many different ways you can figure out. >:)::1
+You Are NOT Allowed to Shoot Yourself with an arrow for any of these Achivements! Don't try any of these deaths at home, this is just a video game.::1
+Minechem Death::0
+Tinker's Construct Death ::0
+Minecraft Death (Not on list of deaths to do)::0
+Thermal Expansion Death::0
+Extra Utilities Death::0
+Draconic Evolution Death::0
+Magical Crops Death-Requires config change::0
+Blow Up::0
+Ex Nihlio Death::0
+VeinMiner Death::0
+Mine Factory Reloaded Death::0
+Deep Dark Death::0
+Wolf Death::0
+Applied Energistics Death::0
+Command Death (Not /kill or /tp)::0
+Wither Death::0
+Natura Death::0
+---===Age of Culinary Achievement===---| |How about we mess with food?::1
+Make full set of tools from Pam's Harvest Craft::0
 ---===The End===---::1
 You have completed 100% of the achieventnts listed, remember to test yourself. What achievements can you come up with?::1
 100% complete::0
