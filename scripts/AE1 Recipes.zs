@@ -1,1 +1,13 @@
-
+var quartz_knife=<appliedenergistics2:item.ToolNetherQuartzCuttingKnife>
+var certus_knife=<appliedenergistics2:item.ToolCertusQuartzCuttingKnife>
+var logic_processor=<appliedenergistics2:item.ItemMultiMaterial:>
+var calculation_processor=<appliedenergistics2:item.ItemMultiMaterial:>
+var engineering_processor=<appliedenergistics2:item.ItemMultiMaterial:>
+var logic_print=<appliedenergistics2:item.ItemMultiMaterial:>
+var calculation_print=<appliedenergistics2:item.ItemMultiMaterial:>
+var engineering_print=<appliedenergistics2:item.ItemMultiMaterial:>
+var redstone=<ore:dustRedstone>
+var diamond=<ore:gemDiamond>
+var quartz=<ore:gemQuartz>
+var certus=<ore:gemCertus>
+var silicon=<ore:silicon>
