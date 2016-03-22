@@ -28,3 +28,5 @@ var unstable_toughrod=<ExtraTiC:toughrod>
 
 //Tinker's Construct Patterns
 var pickaxe_pattern=<TConstruct:Pattern>
+
+recipe.addRecipe(unstable_pickaxe,[
