@@ -1,4 +1,3 @@
-var unstable_pickaxehead=<
 var unstable_bowlimb=<ExtraTiC:BowLimb>
 var unstable_crossbowbody=<ExtraTiC:CrossbowBody>
 var unstable_crossbowlimb=<ExtraTiC:CrossbowLimb>
@@ -26,3 +25,6 @@ var unstable_swordblade=<ExtraTiC:swordBlade>
 var unstable_toolrod=<ExtraTiC:toolrod>
 var unstable_toughbinding=<ExtraTiC:toughbind>
 var unstable_toughrod=<ExtraTiC:toughrod>
+
+//Tinker's Construct Patterns
+var pickaxe_pattern=<TConstruct:Pattern>
